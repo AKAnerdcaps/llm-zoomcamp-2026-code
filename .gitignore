@@ -10,7 +10,7 @@ wheels/
 uv.lock
 faq*
 **/.DS_Store
-
+models
 
 # Virtual environments
 .venv
